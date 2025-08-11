@@ -1,0 +1,1 @@
+// Updated JS with Guided Mode
